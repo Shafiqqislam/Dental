@@ -1,0 +1,2093 @@
+@media (max-width: 1024px) {
+    .follow2 ul li {
+        border: 1px solid #323232;
+        padding: 3px 8px;
+        border-radius: 0px;
+        margin: 1px;
+    }
+    img.gg {
+        width: 689px;
+    }
+    .hh{
+        font-size: 30px;
+    }
+    .phone {
+        margin: 7px;
+        padding-right: -4px;
+    }
+    .img10 {
+        width: 70%;
+        margin-bottom: 8px;
+    }
+    .content h6 {
+        font-size: 7px;
+        font-weight: 700;
+    }
+    .phone img {
+        padding-left: 45px;
+        padding: -1px 2px;
+        padding: 1px 0;
+    }
+    ul.navbar-nav {
+        font-size: 16px;
+        font-weight: 600;
+    }
+    img.appoint {
+        /* font-size: 12px; */
+        width: 73%;
+    }
+    .vertical {
+        position: absolute;
+        height: 100px;
+        width: 100px;
+        top: 25%;
+        right: 10%;
+        transform: translateX(-25%);
+        color: #ffff;
+        font-weight: 600;
+        font-size: 16px;
+    }
+    .hg{
+        min-height: 80vh;
+    }
+    .btn-first {
+        padding: 6px 7px;
+        padding-left: 15px;
+        border-radius: 0;
+        margin-bottom: 12px;
+        font-weight: 500;
+        background: #00cce1;
+        border: 1px solid #00cce1;
+        font-size: 23px;
+        margin-top: 30px;
+    }
+    .content p {
+        font-size: 9px;
+    }
+    .btn-second {
+        border-radius: 0;
+        background: #f69165;
+        border: 1px solid #f69165;
+        font-size: 23px;
+        font-weight: 700;
+        padding: 3px 27px;
+        line-height: 37px;
+    }
+    .cover p {
+        font-family: 'Roboto', sans-serif;
+        font-size: 16px;
+    }
+    .btn-third {
+
+border-radius: 0;
+
+background: #f69165;
+
+color: #ffff;
+
+border: 1px solid #f69165;
+
+font-weight: 700;
+
+line-height: 18px;
+
+font-size: 15px;
+
+padding: 10px 5px;
+}
+    .btn-four {
+        font-size: 17px;
+        padding: 10px 5px;
+        line-height: 18px;
+    }
+    .agency {
+        padding-top: 17px;
+        padding-bottom: -7px;
+        margin-bottom: -24px;
+    }
+    .agency h1 {
+        font-size: 700;
+        font-size: 24px;
+        padding-top: 34px;
+        text-align: center;
+    }
+    .agency p {
+        font-size: 16px;
+        color: #707070;
+        font-family: 'Roboto', sans-serif;
+        text-align: center;
+    }
+    .aa{
+    width: 20%;
+    margin-left: 64px;
+    }
+    .bb{
+
+width: 20%;
+
+margin-left: 68px;
+}
+    .cc{
+
+width: 20%;
+
+margin-left: 62px;
+}
+    .dd{
+        
+width: 20%;
+        
+margin-left: 70px;
+        
+padding-top: -15px;
+    }
+    .meet {
+        padding-top: 35px;
+    }
+    .meet h1 {
+        font-size: 30px;
+    }
+    .meet p {
+        font-size: 16px;
+        padding-top: 0px;
+    }
+    .doctor h4 {
+        font-size: 21px;
+    }
+    .doctor span {
+        width: 290px;
+    }
+    .service {
+        padding-top: 19px;
+    }
+    .service h1 {
+        font-size: 18px;
+    }
+    .service p {
+        font-size: 16px;
+        padding-top: 5px;
+    }
+    .ee{
+      width: 20%;
+      /* margin-bottom: 0; */
+      /* padding-bottom: 0; */
+      padding-left: 3px;
+    }
+    .extraction h6 {
+        font-size: 16px;
+        color: #707070;
+        padding-bottom: 17px;
+        font-size: 15px;
+    }
+    .pricing h1 {
+        font-size: 30px;
+    }
+    .pricing p {
+        font-size: 16px;
+        padding-top: 21px;
+    }
+    .bordering h6 {
+        font-size: 22px;
+    }
+    .bordering h5 {
+        font-size: 13px;
+    }
+    .bck h2 {
+        font-size: 32px;
+    }
+    .bck span {
+        font-size: 11px;
+    }
+    .tbl {
+        padding: 14px 6px;
+    }
+    .bck {
+        margin-right: -11px;
+        margin-left: -11px;
+    }
+    .btn-pricing {
+        margin: 33px 0;
+        font-size: 11px;
+    }
+    .happy h1 {
+        font-size: 20px;
+        padding-top: 28px;
+    }
+    .happy p {
+        font-size: 14px;
+        padding-top: 24px;
+    }
+    .Clients ul {
+        margin-bottom: 45px;
+    }
+    .arrow1 {
+        margin-top: 2px;
+    }
+    .arrow2 {
+        padding-left: 15px;
+    }
+    .arrow5 {
+        padding-left: 21px;
+        margin-top: 16px;
+    }
+    .arrow6 {
+        padding-left: 43px;
+        margin-right: 22px;
+    }
+    .arrow7 {
+        margin-top: 1px;
+    }
+    .kk{
+        
+min-height: 50vh;
+        
+/* padding-bottom: 47px; */
+    }
+    img.ff {
+        width: 70%;
+        margin-top: 12px;
+    }
+    .news p {
+        font-size: 13px;
+        padding-top: 19px;
+    }
+    .level1 span {
+        font-size: 13px;
+    }
+    .second_part h1 {
+        color: #ffff;
+        padding-top: 13px;
+        font-size: 20px;
+    }
+    .third_part h1 {
+        font-size: 20px;
+        margin-bottom: 19px;
+        margin-top: 12px;
+    }
+    input[type="email"] {
+        padding: 6px 3px;
+    }
+    .follow1 h1 {
+        margin-right: 3px;
+        font-size: 19px;
+        margin-top: 9px;
+    }
+    .footer p {
+        padding: 15px 0;
+        display: unset;
+    }
+    .btn-input {
+        font-size: 13px;
+        padding: 7px 12px;
+        line-height: 22px;
+        font-weight: 12px;
+    } 
+    .pic{
+        margin: 0px 0px;
+    }
+    .footer {
+        padding: 19px 0;
+    }
+    .ii{
+       
+    }
+    .heading {
+        padding: 13px;
+        padding-bottom: 0px;
+    }
+
+}
+
+
+
+
+
+
+
+
+@media (max-width: 991.98px) {
+    .follow2 ul li {
+        border: 1px solid #323232;
+        padding: 3px 8px;
+        border-radius: 0px;
+        margin: 1px;
+    }
+    img.gg {
+        width: 728px;
+    }
+    .hh{
+        font-size: 29px;
+    }
+    .phone {
+        margin: 7px;
+        padding-right: -4px;
+    }
+    .img10 {
+        width: 70%;
+        margin-bottom: 8px;
+    }
+    .content h6 {
+        font-size: 7px;
+        font-weight: 700;
+    }
+    .phone img {
+        padding-left: 45px;
+        padding: -1px 2px;
+        padding: 1px 0;
+    }
+    ul.navbar-nav {
+        font-size: 16px;
+        font-weight: 600;
+    }
+    img.appoint {
+        /* font-size: 12px; */
+        width: 28%;
+    }
+    .vertical {
+        position: absolute;
+        height: 100px;
+        width: 100px;
+        top: 88%;
+        right: 67%;
+        transform: translateX(-88%);
+        color: #ffff;
+        font-weight: 600;
+        font-size: 16px;
+    }
+    .hg{
+        min-height: 80vh;
+    }
+    .btn-first {
+        padding: 6px 7px;
+        padding-left: 15px;
+        border-radius: 0;
+        margin-bottom: 12px;
+        font-weight: 500;
+        background: #00cce1;
+        border: 1px solid #00cce1;
+        font-size: 14px;
+        margin-top: 30px;
+    }
+    .content p {
+        font-size: 9px;
+    }
+    .btn-second {
+        border-radius: 0;
+        background: #f69165;
+        border: 1px solid #f69165;
+        font-size: 12px;
+        font-weight: 700;
+        padding: 3px 27px;
+        line-height: 27px;
+    }
+    .cover p {
+        font-family: 'Roboto', sans-serif;
+        font-size: 16px;
+    }
+    .btn-third {
+
+border-radius: 0;
+
+background: #f69165;
+
+color: #ffff;
+
+border: 1px solid #f69165;
+
+font-weight: 700;
+
+line-height: 12px;
+
+font-size: 12px;
+
+padding: 10px 5px;
+}
+    .btn-four {
+        font-size: 12px;
+        padding: 10px 5px;
+        line-height: 12px;
+    }
+    .agency {
+        padding-top: 17px;
+        padding-bottom: -7px;
+        margin-bottom: -24px;
+    }
+    .agency h1 {
+        font-size: 700;
+        font-size: 22px;
+        padding-top: 16px;
+        text-align: center;
+    }
+    .agency p {
+        font-size: 15px;
+        color: #707070;
+        font-family: 'Roboto', sans-serif;
+        text-align: center;
+    }
+    .aa{
+    width: 20%;
+    margin-left: 64px;
+    }
+    .bb{
+
+width: 20%;
+
+margin-left: 68px;
+}
+    .cc{
+
+width: 20%;
+
+margin-left: 62px;
+}
+    .dd{
+        
+width: 20%;
+        
+margin-left: 70px;
+        
+padding-top: -15px;
+    }
+    .meet {
+        padding-top: 35px;
+    }
+    .meet h1 {
+        font-size: 26px;
+    }
+    .meet p {
+        font-size: 16px;
+        padding-top: 3px;
+    }
+    .doctor h4 {
+        font-size: 19px;
+    }
+    .doctor span {
+        width: 205px;
+    }
+    .service {
+        padding-top: 19px;
+    }
+    .service h1 {
+        font-size: 13px;
+    }
+    .service p {
+        font-size: 15px;
+        padding-top: 14px;
+    }
+    .ee{
+      width: 20%;
+      /* margin-bottom: 0; */
+      /* padding-bottom: 0; */
+      padding-left: 3px;
+    }
+    .extraction h6 {
+        font-size: 16px;
+        color: #707070;
+        padding-bottom: 17px;
+        font-size: 16px;
+    }
+    .pricing h1 {
+        font-size: 28px;
+    }
+    .pricing p {
+        font-size: 15px;
+        padding-top: 21px;
+    }
+    .bordering h6 {
+        font-size: 16px;
+    }
+    .bordering h5 {
+        font-size: 10px;
+    }
+    .bck h2 {
+        font-size: 32px;
+    }
+    .bck span {
+        font-size: 11px;
+    }
+    .tbl {
+        padding: 14px 6px;
+    }
+    .bck {
+        margin-right: -11px;
+        margin-left: -11px;
+    }
+    .btn-pricing {
+        margin: 33px 0;
+        font-size: 11px;
+    }
+    .happy h1 {
+        font-size: 20px;
+        padding-top: 28px;
+    }
+    .happy p {
+        font-size: 14px;
+        padding-top: 24px;
+    }
+    .Clients ul {
+        margin-bottom: 45px;
+    }
+    .arrow1 {
+        margin-top: 2px;
+    }
+    .arrow2 {
+        padding-left: 15px;
+    }
+    .arrow5 {
+        padding-left: 21px;
+        margin-top: 16px;
+    }
+    .arrow6 {
+        padding-left: 43px;
+        margin-right: 22px;
+    }
+    .arrow7 {
+        margin-top: 1px;
+    }
+    .kk{
+        
+min-height: 45vh;
+    }
+    img.ff {
+        width: 70%;
+        margin-top: 12px;
+    }
+    .news p {
+        font-size: 14px;
+        padding-top: 19px;
+    }
+    .level1 span {
+        font-size: 13px;
+    }
+    .second_part h1 {
+        color: #ffff;
+        padding-top: 13px;
+        font-size: 20px;
+    }
+    .third_part h1 {
+        font-size: 20px;
+        margin-bottom: 19px;
+        margin-top: 12px;
+    }
+    input[type="email"] {
+        padding: 6px 3px;
+    }
+    .follow1 h1 {
+        margin-right: 3px;
+        font-size: 17px;
+        margin-top: 9px;
+    }
+    .footer p {
+        padding: 15px 0;
+        display: unset;
+    }
+    .btn-input {
+        font-size: 13px;
+        padding: 1px 12px;
+        line-height: 17px;
+        font-weight: 12px;
+    } 
+    .pic{
+        margin: 0px 1px;
+    }
+    .footer {
+        padding: 6px 0;
+    }
+    .ii{
+       
+    }
+    .heading {
+        padding: 13px;
+        padding-bottom: 0px;
+    }
+
+}
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 768px) {
+    .footer {
+        padding: 10px 0;
+    }
+    .follow2 ul li {
+        border: 1px solid #323232;
+        padding: 4px 7px;
+        border-radius: 0px;
+        margin: 1px;
+    }
+    img.gg {
+        width: 728px;
+    }
+    .hh{
+        font-size: 29px;
+    }
+    .phone {
+        margin: 7px;
+        padding-right: -4px;
+    }
+    .img10 {
+        width: 70%;
+        margin-bottom: 8px;
+    }
+    .content h6 {
+        font-size: 7px;
+        font-weight: 700;
+    }
+    .phone img {
+        padding-left: 45px;
+        padding: -1px 2px;
+        padding: 1px 0;
+    }
+    ul.navbar-nav {
+        font-size: 16px;
+        font-weight: 600;
+    }
+    img.appoint {
+        /* font-size: 12px; */
+        width: 28%;
+    }
+    .vertical {
+        position: absolute;
+        height: 100px;
+        width: 100px;
+        top: 88%;
+        right: 67%;
+        transform: translateX(-88%);
+        color: #ffff;
+        font-weight: 600;
+        font-size: 16px;
+    }
+    .hg{
+        min-height: 80vh;
+    }
+    .btn-first {
+        padding: 6px 7px;
+        padding-left: 15px;
+        border-radius: 0;
+        margin-bottom: 12px;
+        font-weight: 500;
+        background: #00cce1;
+        border: 1px solid #00cce1;
+        font-size: 14px;
+        margin-top: 30px;
+    }
+    .content p {
+        font-size: 9px;
+    }
+    .btn-second {
+        border-radius: 0;
+        background: #f69165;
+        border: 1px solid #f69165;
+        font-size: 12px;
+        font-weight: 700;
+        padding: 3px 27px;
+        line-height: 27px;
+    }
+    .cover p {
+        font-family: 'Roboto', sans-serif;
+        font-size: 16px;
+    }
+    .btn-third {
+
+border-radius: 0;
+
+background: #f69165;
+
+color: #ffff;
+
+border: 1px solid #f69165;
+
+font-weight: 700;
+
+line-height: 12px;
+
+font-size: 12px;
+
+padding: 10px 5px;
+}
+    .btn-four {
+        font-size: 12px;
+        padding: 10px 5px;
+        line-height: 12px;
+    }
+    .agency {
+        padding-top: 17px;
+        padding-bottom: -7px;
+        margin-bottom: -24px;
+    }
+    .agency h1 {
+        font-size: 700;
+        font-size: 22px;
+        padding-top: 16px;
+        text-align: center;
+    }
+    .agency p {
+        font-size: 15px;
+        color: #707070;
+        font-family: 'Roboto', sans-serif;
+        text-align: center;
+    }
+    .aa{
+    width: 20%;
+    margin-left: 64px;
+    }
+    .bb{
+
+width: 20%;
+
+margin-left: 68px;
+}
+    .cc{
+
+width: 20%;
+
+margin-left: 62px;
+}
+    .dd{
+        
+width: 20%;
+        
+margin-left: 70px;
+        
+padding-top: -15px;
+    }
+    .meet {
+        padding-top: 35px;
+    }
+    .meet h1 {
+        font-size: 26px;
+    }
+    .meet p {
+        font-size: 16px;
+        padding-top: 3px;
+    }
+    .doctor h4 {
+        font-size: 19px;
+    }
+    .doctor span {
+        width: 205px;
+    }
+    .service {
+        padding-top: 19px;
+    }
+    .service h1 {
+        font-size: 13px;
+    }
+    .service p {
+        font-size: 15px;
+        padding-top: 14px;
+    }
+    .ee{
+      width: 20%;
+      /* margin-bottom: 0; */
+      /* padding-bottom: 0; */
+      padding-left: 3px;
+    }
+    .extraction h6 {
+        font-size: 16px;
+        color: #707070;
+        padding-bottom: 17px;
+        font-size: 16px;
+    }
+    .pricing h1 {
+        font-size: 28px;
+    }
+    .pricing p {
+        font-size: 15px;
+        padding-top: 21px;
+    }
+    .bordering h6 {
+        font-size: 16px;
+    }
+    .bordering h5 {
+        font-size: 10px;
+    }
+    .bck h2 {
+        font-size: 32px;
+    }
+    .bck span {
+        font-size: 11px;
+    }
+    .tbl {
+        padding: 14px 6px;
+    }
+    .bck {
+        margin-right: -11px;
+        margin-left: -11px;
+    }
+    .btn-pricing {
+        margin: 33px 0;
+        font-size: 11px;
+    }
+    .happy h1 {
+        font-size: 20px;
+        padding-top: 28px;
+    }
+    .happy p {
+        font-size: 14px;
+        padding-top: 24px;
+    }
+    .Clients ul {
+        margin-bottom: 45px;
+    }
+    .arrow1 {
+        margin-top: 2px;
+    }
+    .arrow2 {
+        padding-left: 15px;
+    }
+    .arrow5 {
+        padding-left: 21px;
+        margin-top: 16px;
+    }
+    .arrow6 {
+        padding-left: 43px;
+        margin-right: 22px;
+    }
+    .arrow7 {
+        margin-top: 1px;
+    }
+    .kk{
+        
+min-height: 48vh;
+        
+/* margin-bottom: 12px; */
+        
+padding-bottom: -1px 0;
+    }
+    img.ff {
+        width: 70%;
+        margin-top: 12px;
+    }
+    .news p {
+        font-size: 14px;
+        padding-top: 19px;
+    }
+    .level1 span {
+        font-size: 13px;
+    }
+    .second_part h1 {
+        color: #ffff;
+        padding-top: 13px;
+        font-size: 20px;
+    }
+    .third_part h1 {
+        font-size: 20px;
+        margin-bottom: 19px;
+        margin-top: 12px;
+    }
+    input[type="email"] {
+        padding: 5px 3px;
+    }
+    .follow1 h1 {
+        margin-right: 3px;
+        font-size: 17px;
+        margin-top: 9px;
+    }
+    .footer p {
+        padding: 15px 0;
+        display: unset;
+    }
+    .btn-input {
+        /* font-size: 5px; */
+        /* padding: 1px 12px; */
+        /* line-height: 17px; */
+        font-weight: 12px;
+        padding: 0px 12px;
+        font-size: 13px;
+        /* font-weight: 400; */
+    } 
+    .pic{
+        margin: 0px 1px;
+    }
+    .ii{
+       
+width: 111%;
+    }
+    .heading {
+        padding: 13px;
+        padding-bottom: 0px;
+    }
+
+
+ }
+
+
+
+
+
+
+
+
+
+@media (max-width: 575.98px) {
+    .phone {
+        margin: 7px;
+        padding-right: -4px;
+    }
+    .img10 {
+        width: 46%;
+        margin-bottom: 9px;
+    }
+    .content h6 {
+        font-size: 7px;
+        font-weight: 700;
+    }
+    .phone img {
+        padding-left: 45px;
+        padding: -1px 2px;
+        padding: 1px 0;
+    }
+    ul.navbar-nav {
+        font-size: 12px;
+        font-weight: 600;
+    }
+    img.appoint {
+        /* font-size: 12px; */
+        width: 38%;
+    }
+    .vertical {
+        position: absolute;
+        height: 100px;
+        width: 100px;
+        top: 89%;
+        right: 47%;
+        transform: translateX(-89%);
+        color: #ffff;
+        font-weight: 600;
+        font-size: 11px;
+    }
+    .hg{
+        min-height: 58vh;
+    }
+    .btn-first {
+        padding: 0px 7px;
+        padding-left: 15px;
+        border-radius: 0;
+        margin-bottom: 12px;
+        font-weight: 500;
+        background: #00cce1;
+        border: 1px solid #00cce1;
+        font-size: 14px;
+        margin-top: 30px;
+    }
+    .content p {
+        font-size: 9px;
+    }
+    .btn-second {
+        border-radius: 0;
+        background: #f69165;
+        border: 1px solid #f69165;
+        font-size: 12px;
+        font-weight: 700;
+        padding: 0px 23px;
+        line-height: 27px;
+    }
+    .cover p {
+        font-family: 'Roboto', sans-serif;
+        font-size: 12px;
+    }
+    .btn-third {
+
+border-radius: 0;
+
+background: #f69165;
+
+color: #ffff;
+
+border: 1px solid #f69165;
+
+font-weight: 700;
+
+line-height: 12px;
+
+font-size: 12px;
+
+padding: 8px 5px;
+
+}
+    .btn-four {
+        font-size: 12px;
+        padding: 8px 5px;
+        line-height: 12px;
+    }
+    .agency {
+        padding-top: 17px;
+        padding-bottom: -7px;
+        margin-bottom: -24px;
+    }
+    .agency h1 {
+        font-size: 18px;
+        padding-top: 16px;
+        text-align: center;
+    }
+    .agency p {
+        font-size: 14px;
+        color: #707070;
+        font-family: 'Roboto', sans-serif;
+        text-align: center;
+    }
+    .aa{
+    width: 20%;
+    margin-left: 64px;
+    }
+    .bb{
+
+width: 20%;
+
+margin-left: 68px;
+}
+    .cc{
+
+width: 20%;
+
+margin-left: 62px;
+}
+    .dd{
+        
+width: 20%;
+        
+margin-left: 70px;
+        
+padding-top: -15px;
+    }
+    .meet {
+        padding-top: 35px;
+    }
+    .meet h1 {
+        font-size: 21px;
+    }
+    .meet p {
+        font-size: 14px;
+        padding-top: 10px;
+    }
+    .doctor h4 {
+        font-size: 17px;
+    }
+    .doctor span {
+        width: 371px;
+    }
+    .service {
+        padding-top: 19px;
+    }
+    .service h1 {
+        font-size: 21px;
+    }
+    .service p {
+        font-size: 14px;
+        padding-top: 5px;
+    }
+    .ee{
+      width: 10%;
+      /* margin-bottom: 0; */
+      /* padding-bottom: 0; */
+    }
+    .extraction h6 {
+        font-size: 16px;
+        color: #707070;
+        padding-bottom: 17px;
+        font-size: 16px;
+    }
+    .pricing h1 {
+        font-size: 21px;
+    }
+    .pricing p {
+        font-size: 15px;
+        padding-top: 9px;
+    }
+    .bordering h6 {
+        font-size: 14px;
+    }
+    .bordering h5 {
+        font-size: 10px;
+    }
+    .bck h2 {
+        font-size: 32px;
+    }
+    .bck span {
+        font-size: 11px;
+    }
+    .tbl {
+        padding: 12px 11px;
+    }
+    .bck {
+        margin-right: -11px;
+        margin-left: -11px;
+    }
+    .btn-pricing {
+        margin: 33px 0;
+        font-size: 11px;
+    }
+    .happy h1 {
+        font-size: 20px;
+        padding-top: 28px;
+    }
+    .happy p {
+        font-size: 14px;
+        padding-top: 24px;
+    }
+    .Clients ul {
+        margin-bottom: 45px;
+    }
+    .arrow1 {
+        margin-top: 2px;
+    }
+    .arrow2 {
+        padding-left: 15px;
+    }
+    .arrow5 {
+        padding-left: 21px;
+        margin-top: 0px;
+    }
+    .arrow6 {
+        padding-left: 43px;
+        margin-right: 22px;
+    }
+    .arrow7 {
+        margin-top: 1px;
+    }
+    .kk{
+        
+min-height: 45vh;
+    }
+    img.ff {
+        width: 34%;
+    }
+    .news p {
+        font-size: 14px;
+        padding-top: 12px;
+    }
+    .level1 span {
+        font-size: 14px;
+    }
+    .second_part h1 {
+        color: #ffff;
+        padding-top: 13px;
+        font-size: 20px;
+    }
+    .third_part h1 {
+        font-size: 20px;
+        margin-bottom: 21px;
+    }
+    input[type="email"] {
+        padding: 6px 26px;
+    }
+    .follow1 h1 {
+        margin-right: 3px;
+        font-size: 17px;
+        margin-top: 9px;
+    }
+    .footer p {
+        padding: 15px 0;
+        display: unset;
+    }
+    .btn-input {
+        font-size: 12px;
+        padding: 9px 12px;
+    } 
+    .pic{
+        margin: 0px 30px;
+    }
+    img.gg {
+        width: 417px;
+    }
+    .ii{
+       
+    }
+    .heading {
+        padding: 13px;
+        padding-bottom: 0px;
+    }
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+@media(max-width: 425px){
+    .footer {
+        padding: 6px 0;
+    }
+    .phone {
+        margin: 7px;
+        padding-right: -4px;
+    }
+    .img10 {
+        width: 52%;
+    }
+    .content h6 {
+        font-size: 7px;
+        font-weight: 700;
+    }
+    .phone img {
+        padding-left: 45px;
+        padding: -1px 2px;
+        padding: 1px 0;
+    }
+    ul.navbar-nav {
+        font-size: 12px;
+    }
+    img.appoint {
+        /* font-size: 12px; */
+        width: 46%;
+    }
+    .vertical {
+        position: absolute;
+        height: 100px;
+        width: 100px;
+        top: 89%;
+        right: 44%;
+        transform: translateX(-89%);
+        color: #ffff;
+        font-weight: 400;
+        font-size: 11px;
+    }
+    .hg{
+        min-height: 50vh;
+    }
+    .btn-first {
+        padding: 0px 7px;
+        padding-left: 15px;
+        border-radius: 0;
+        margin-bottom: 12px;
+        font-weight: 500;
+        background: #00cce1;
+        border: 1px solid #00cce1;
+        font-size: 14px;
+        margin-top: 30px;
+    }
+    .content p {
+        font-size: 7px;
+    }
+    .btn-second {
+        border-radius: 0;
+        background: #f69165;
+        border: 1px solid #f69165;
+        font-size: 12px;
+        font-weight: 700;
+        padding: 0px 23px;
+        line-height: 27px;
+    }
+    .cover p {
+        font-family: 'Roboto', sans-serif;
+        font-size: 11px;
+    }
+    .btn-third {
+
+border-radius: 0;
+
+background: #f69165;
+
+color: #ffff;
+
+border: 1px solid #f69165;
+
+font-weight: 700;
+
+line-height: 12px;
+
+font-size: 12px;
+
+padding: 8px 5px;
+
+}
+    .btn-four {
+        font-size: 12px;
+        padding: 8px 5px;
+        line-height: 12px;
+    }
+    .agency {
+        padding-top: 17px;
+        padding-bottom: -7px;
+        margin-bottom: -24px;
+    }
+    .agency h1 {
+        font-size: 18px;
+        padding-top: 10px;
+        text-align: center;
+    }
+    .agency p {
+        font-size: 12px;
+        color: #707070;
+        font-family: 'Roboto', sans-serif;
+        text-align: center;
+    }
+    .aa{
+    width: 20%;
+    margin-left: 64px;
+    }
+    .bb{
+
+width: 20%;
+
+margin-left: 68px;
+}
+    .cc{
+
+width: 20%;
+
+margin-left: 62px;
+}
+    .dd{
+        
+width: 20%;
+        
+margin-left: 70px;
+        
+padding-top: -15px;
+    }
+    .meet {
+        padding-top: 35px;
+    }
+    .meet h1 {
+        font-size: 17px;
+    }
+    .meet p {
+        font-size: 14px;
+        padding-top: 1px;
+    }
+    .doctor h4 {
+        font-size: 17px;
+    }
+    .doctor span {
+        width: 389px;
+    }
+    .service {
+        padding-top: 19px;
+    }
+    .service h1 {
+        font-size: 20px;
+    }
+    .service p {
+        font-size: 14px;
+        padding-top: 9px;
+    }
+    .ee{
+      width: 10%;
+      /* margin-bottom: 0; */
+      /* padding-bottom: 0; */
+    }
+    .extraction h6 {
+        font-size: 16px;
+        color: #707070;
+        padding-bottom: 18px;
+        font-size: 12px;
+    }
+    .pricing h1 {
+        font-size: 20px;
+    }
+    .pricing p {
+        font-size: 14px;
+    }
+    .bordering h6 {
+        font-size: 10px;
+    }
+    .bordering h5 {
+        font-size: 10px;
+    }
+    .bck h2 {
+        font-size: 21px;
+    }
+    .bck span {
+        font-size: 10px;
+    }
+    .tbl {
+        padding: 6px 1px;
+    }
+    .bck {
+        margin-right: -5px;
+        margin-left: -1px;
+    }
+    .btn-pricing {
+        margin: 12px 0;
+        font-size: 11px;
+    }
+    .happy h1 {
+        font-size: 16px;
+        padding-top: 28px;
+    }
+    .happy p {
+        font-size: 14px;
+        padding-top: 15px;
+    }
+    .Clients ul {
+        margin-bottom: 45px;
+    }
+    .arrow1 {
+        margin-top: 2px;
+    }
+    .arrow2 {
+        padding-left: 15px;
+    }
+    .arrow5 {
+        padding-left: 21px;
+        margin-top: 0px;
+    }
+    .arrow6 {
+        padding-left: 43px;
+        margin-right: 22px;
+    }
+    .arrow7 {
+        margin-top: 1px;
+    }
+    .kk{
+        
+min-height: 45vh;
+    }
+    img.ff {
+        width: 34%;
+    }
+    .news p {
+        font-size: 13px;
+        padding-top: 12px;
+    }
+    .level1 span {
+        font-size: 12px;
+    }
+    .second_part h1 {
+        color: #ffff;
+        padding-top: 6px;
+        font-size: 20px;
+    }
+    .third_part h1 {
+        font-size: 20px;
+        margin-bottom: 12px;
+    }
+    input[type="email"] {
+        padding: 6px 8px;
+    }
+    .follow1 h1 {
+        margin-right: 3px;
+        font-size: 17px;
+        margin-top: 9px;
+    }
+    .footer p {
+        padding: 15px 0;
+        display: unset;
+    }
+    .btn-input {
+        font-size: 12px;
+        padding: 9px 12px;
+    } 
+    .pic{
+        margin: 0px 1px;
+    }
+    img.gg {
+        width: 407px;
+    }
+    .ii{
+       
+width: 130%;
+       
+height: 34%;
+    }
+    .heading {
+        padding: 13px;
+        padding-bottom: 0px;
+    }
+    
+}
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 375px) {
+    .phone {
+        margin: 0px;
+        padding-right: -4px;
+        /* padding-bottom: 1px; */
+        /* margin-bottom: 1px; */
+    }
+    .img10 {
+        width: 52%;
+    }
+    .content h6 {
+        font-size: 7px;
+        font-weight: 700;
+    }
+    .phone img {
+        padding-left: 52px;
+        padding: -1px 2px;
+        padding: 6px 0;
+        padding-bottom: -4px;
+        /* margin-bottom: -1px; */
+    }
+    ul.navbar-nav {
+        font-size: 12px;
+    }
+    img.appoint {
+        /* font-size: 12px; */
+        width: 46%;
+    }
+    .vertical {
+        position: absolute;
+        height: 100px;
+        width: 100px;
+        top: 89%;
+        right: 36%;
+        transform: translateX(-89%);
+        color: #ffff;
+        font-weight: 400;
+        font-size: 11px;
+    }
+    .hg{
+        min-height: 50vh;
+    }
+    .btn-first {
+        padding: 4px 7px;
+        padding-left: 15px;
+        border-radius: 0;
+        margin-bottom: 12px;
+        font-weight: 500;
+        background: #00cce1;
+        border: 1px solid #00cce1;
+        font-size: 14px;
+        margin-top: 30px;
+    }
+    .content p {
+        font-size: 7px;
+    }
+    .btn-second {
+        border-radius: 0;
+        background: #f69165;
+        border: 1px solid #f69165;
+        font-size: 11px;
+        font-weight: 700;
+        padding: 0px 23px;
+        line-height: 27px;
+    }
+    .cover p {
+        font-family: 'Roboto', sans-serif;
+        font-size: 12px;
+    }
+    .btn-third {
+
+border-radius: 0;
+
+background: #f69165;
+
+color: #ffff;
+
+border: 1px solid #f69165;
+
+font-weight: 700;
+
+line-height: 12px;
+
+font-size: 12px;
+
+padding: 8px 5px;
+
+}
+    .btn-four {
+        font-size: 12px;
+        padding: 8px 5px;
+        line-height: 12px;
+    }
+    .agency {
+        padding-top: 17px;
+        padding-bottom: -7px;
+        margin-bottom: -24px;
+    }
+    .agency h1 {
+        font-size: 14px;
+        padding-top: 10px;
+        text-align: center;
+    }
+    .agency p {
+        font-size: 12px;
+        color: #707070;
+        font-family: 'Roboto', sans-serif;
+        text-align: center;
+    }
+    .aa{
+    width: 20%;
+    margin-left: 52px;
+    }
+    .bb{
+
+width: 20%;
+
+margin-left: 53px;
+}
+    .cc{
+
+width: 20%;
+
+margin-left: 52px;
+}
+    .dd{
+        
+width: 20%;
+        
+margin-left: 55px;
+        
+padding-top: -15px;
+    }
+    .meet {
+        padding-top: 35px;
+    }
+    .meet h1 {
+        font-size: 17px;
+    }
+    .meet p {
+        font-size: 14px;
+        padding-top: 4px;
+    }
+    .doctor h4 {
+        font-size: 17px;
+    }
+    .doctor span {
+        width: 344px;
+    }
+    .service {
+        padding-top: 19px;
+    }
+    .service h1 {
+        font-size: 20px;
+    }
+    .service p {
+        font-size: 14px;
+        padding-top: 9px;
+    }
+    .ee{
+      width: 10%;
+      /* margin-bottom: 0; */
+      /* padding-bottom: 0; */
+    }
+    .extraction h6 {
+        font-size: 16px;
+        color: #707070;
+        padding-bottom: 18px;
+        font-size: 12px;
+    }
+    .pricing h1 {
+        font-size: 20px;
+    }
+    .pricing p {
+        font-size: 14px;
+    }
+    .bordering h6 {
+        font-size: 10px;
+    }
+    .bordering h5 {
+        font-size: 10px;
+    }
+    .bck h2 {
+        font-size: 21px;
+    }
+    .bck span {
+        font-size: 10px;
+    }
+    .tbl {
+        padding: 6px 1px;
+    }
+    .bck {
+        margin-right: -5px;
+        margin-left: -1px;
+    }
+    .btn-pricing {
+        margin: 12px 0;
+        font-size: 11px;
+    }
+    .happy h1 {
+        font-size: 16px;
+        padding-top: 28px;
+    }
+    .happy p {
+        font-size: 14px;
+        padding-top: 15px;
+    }
+    .Clients ul {
+        margin-bottom: 45px;
+    }
+    .arrow1 {
+        margin-top: 2px;
+    }
+    .arrow2 {
+        padding-left: 15px;
+    }
+    .arrow5 {
+        padding-left: 21px;
+        margin-top: 0px;
+    }
+    .arrow6 {
+        padding-left: 43px;
+        margin-right: 22px;
+    }
+    .arrow7 {
+        margin-top: 1px;
+    }
+    .kk{
+        
+min-height: 45vh;
+    }
+    img.ff {
+        width: 34%;
+    }
+    .news p {
+        font-size: 13px;
+        padding-top: 12px;
+    }
+    .level1 span {
+        font-size: 12px;
+    }
+    .second_part h1 {
+        color: #ffff;
+        padding-top: 6px;
+        font-size: 20px;
+    }
+    .third_part h1 {
+        font-size: 20px;
+        margin-bottom: 12px;
+    }
+    input[type="email"] {
+        padding: 6px 0px;
+    }
+    .follow1 h1 {
+        margin-right: 3px;
+        font-size: 17px;
+        margin-top: 9px;
+    }
+    .footer p {
+        padding: 13px 0;
+        display: unset;
+    }
+    .btn-input {
+        font-size: 12px;
+        padding: 9px 12px;
+    }
+    .pic{
+        margin: 0 -3px;
+    }
+    img.gg {
+        width: 358px;
+    }
+    .footer {
+        padding: 10px 0;
+    }
+    .ii{
+       
+width: 132%;
+       
+height: 31%;
+    }
+    .heading {
+        padding: 13px;
+        padding-bottom: 0px;
+    }
+
+}
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 320px) {
+.img10 {
+        width: 44%;
+    }
+    .content h6 {
+        font-size: 7px;
+        font-weight: 700;
+    }
+    .phone img {
+        padding-left: 45px;
+        padding: -1px 2px;
+        padding: 1px 0;
+    }
+    ul.navbar-nav {
+        font-size: 12px;
+    }
+    img.appoint {
+        /* font-size: 12px; */
+        width: 46%;
+    }
+    .vertical {
+        position: absolute;
+        height: 100px;
+        width: 100px;
+        top: 90%;
+        right: 25%;
+        transform: translateX(-90%);
+        color: #ffff;
+        font-weight: 400;
+        font-size: 11px;
+    }
+    .hg{
+        min-height: 50vh;
+    }
+    .btn-first {
+        padding: 2px 7px;
+        padding-left: 5px;
+        border-radius: 0;
+        margin-bottom: 12px;
+        font-weight: 400;
+        background: #00cce1;
+        border: 1px solid #00cce1;
+        font-size: 14px;
+        margin-top: 30px;
+    }
+    .content p {
+        font-size: 5px;
+    }
+    .btn-second {
+        border-radius: 0;
+        background: #f69165;
+        border: 1px solid #f69165;
+        font-size: 10px;
+        /* font-weight: 700; */
+        padding: -1px 24px;
+        /* line-height: 27px; */
+        padding-left: 12px;
+    }
+    .cover p {
+        font-family: 'Roboto', sans-serif;
+        font-size: 11px;
+    }
+    .btn-third {
+
+border-radius: 0;
+
+background: #f69165;
+
+color: #ffff;
+
+border: 1px solid #f69165;
+
+font-weight: 600;
+
+line-height: 27px;
+
+font-size: 8px;
+
+padding: 1px 2px;
+}
+    .btn-four {
+        font-size: 8px;
+        padding: 8px 5px;
+        line-height: 14px;
+    }
+    .agency {
+        padding-top: 17px;
+        padding-bottom: -7px;
+        margin-bottom: -24px;
+    }
+    .agency h1 {
+        font-size: 14px;
+        padding-top: 10px;
+        text-align: center;
+    }
+    .agency p {
+        font-size: 12px;
+        color: #707070;
+        font-family: 'Roboto', sans-serif;
+        text-align: center;
+    }
+    .aa{
+    width: 20%;
+    margin-left: 47px;
+    }
+    .bb{
+
+width: 20%;
+
+margin-left: 48px;
+
+}
+    .cc{
+
+width: 20%;
+
+margin-left: 46px;
+
+}
+    .dd{
+        
+width: 20%;
+        
+margin-left: 52px;
+        
+padding-top: -15px;
+    }
+    .meet {
+        padding-top: 35px;
+    }
+    .meet h1 {
+        font-size: 17px;
+    }
+    .meet p {
+        font-size: 14px;
+        padding-top: 0px;
+    }
+    .doctor h4 {
+        font-size: 16px;
+    }
+    .doctor span {
+        width: 290px;
+    }
+    .service {
+        padding-top: 19px;
+    }
+    .service h1 {
+        font-size: 20px;
+    }
+    .service p {
+        font-size: 14px;
+        padding-top: 9px;
+    }
+    .ee{
+      width: 10%;
+      /* margin-bottom: 0; */
+      /* padding-bottom: 0; */
+    }
+    .extraction h6 {
+        font-size: 16px;
+        color: #707070;
+        padding-bottom: 18px;
+        font-size: 12px;
+    }
+    .pricing h1 {
+        font-size: 20px;
+    }
+    .pricing p {
+        font-size: 14px;
+    }
+    .bordering h6 {
+        font-size: 10px;
+    }
+    .bordering h5 {
+        font-size: 10px;
+    }
+    .bck h2 {
+        font-size: 21px;
+    }
+    .bck span {
+        font-size: 10px;
+    }
+    .tbl {
+        padding: 6px 1px;
+    }
+    .bck {
+        margin-right: -5px;
+        margin-left: -1px;
+    }
+    .btn-pricing {
+        margin: 12px 0;
+        font-size: 11px;
+    }
+    .happy h1 {
+        font-size: 16px;
+        padding-top: 28px;
+    }
+    .happy p {
+        font-size: 14px;
+        padding-top: 15px;
+    }
+    .Clients ul {
+        margin-bottom: 45px;
+    }
+    .arrow1 {
+        margin-top: 2px;
+    }
+    .arrow2 {
+        padding-left: 15px;
+    }
+    .arrow5 {
+        padding-left: 21px;
+        margin-top: 0px;
+    }
+    .arrow6 {
+        padding-left: 43px;
+        margin-right: 22px;
+    }
+    .arrow7 {
+        margin-top: 1px;
+    }
+    .kk{
+        
+min-height: 45vh;
+    }
+    img.ff {
+        width: 34%;
+    }
+    .news p {
+        font-size: 13px;
+        padding-top: 12px;
+    }
+    .level1 span {
+        font-size: 12px;
+    }
+    .second_part h1 {
+        color: #ffff;
+        padding-top: 6px;
+        font-size: 20px;
+    }
+    .third_part h1 {
+        font-size: 20px;
+        margin-bottom: 12px;
+    }
+    input[type="email"] {
+        padding: 6px 0px;
+    }
+    .follow1 h1 {
+        margin-right: 3px;
+        font-size: 17px;
+        margin-top: 9px;
+    }
+    .footer p {
+        padding: 15px 0;
+        display: unset;
+    }
+    .btn-input {
+        font-size: 12px;
+        padding: 9px 12px;
+    }
+    .pic{
+        margin: 0px 0px;
+    }
+    img.gg {
+        width: 305px;
+    }
+    .footer {
+        padding: 0px 0;
+    }
+   .ii{
+
+width: 163%;
+
+height: 37%;
+
+}
+.heading {
+    padding: 13px;
+    padding-bottom: 0px;
+}
+}
+       
